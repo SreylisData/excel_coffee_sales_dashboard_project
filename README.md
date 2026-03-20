@@ -1,2 +1,2 @@
 Excel_coffee_sales_dashboard_project
-<img width="2271" height="1029" alt="Screen Shot 2025-09-08 at 21 45 21 PM" src="https://github.com/user-attachments/assets/d1963968-6e62-4105-9f31-dd08cc71f667" />
+<img width="2026" height="987" alt="Screenshot 2026-03-20 at 6 12 11 PM" src="https://github.com/user-attachments/assets/d153ad8b-87b3-4a4c-bdfe-23fc72dcd5a2" />
